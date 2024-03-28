@@ -9,13 +9,14 @@
 * Estado civil: soltero.
 
 ## Descripción personal
-Me apasionan la ciencia y la tecnología en general. Estudié algunos años de la Licenciatura en Ciencias Biológicas, en la UBA, hasta que hace poco decidí cambiar de rumbo y meterme de lleno en 
-Ingeniería en Sistemas de la UTN-FRBA, por lo que recién empiezo a explorar el mundo de Sistemas (me siento una **esponja**). En particular, me interesan muchísimo las áreas de Desarrollo de Software 
-e Inteligencia Artificial; solo pensar en la cantidad de aplicaciones actuales y a futuro me resulta fascinante.
+Me apasionan la ciencia y la tecnología en general. Egresado del Colegio Nacional de Buenos Aires con título de Bachiller con Orientación en Ciencias Biológicas, estudié algunos años 
+de la Licenciatura en Ciencias Biológicas en la UBA, hasta que hace poco decidí cambiar de rumbo y meterme de lleno en Ingeniería en Sistemas de la UTN-FRBA, por lo que recién empiezo a 
+explorar el mundo de Sistemas (me siento una [esponja](https://es.wikipedia.org/wiki/Porifera)). En particular, me interesan muchísimo las áreas de Desarrollo de Software e Inteligencia Artificial; 
+solo pensar en la cantidad de aplicaciones actuales y a futuro me resulta fascinante.
 
 ## Factos irrelevantes
 * Me encanta BEETHOVEN (AGUANTE BEETHOVEN).
 * Soy adicto al **chocolate**.
-* También soy adicto al metal sinfónico.
+* También soy adicto al **metal sinfónico**.
 * Estoy aprendiendo a jugar al ajedrez (doy asco).
 * Yyy me encantan los idiomas. Todos ellos.
